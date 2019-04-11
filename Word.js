@@ -12,7 +12,7 @@ var word = function (x) {
         for (var j=0; j<this.new.length;j++){
             hidden=hidden+this.objectArray[j].guessed();
         }
-        console.log(hidden);
+        return hidden;
     };
     this.attempt=function(z){
         for (var w=0;w<this.objectArray.length;w++){

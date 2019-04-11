@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erikchan103/ConstructorWordGuess/issues"
   },
-  "homepage": "https://github.com/erikchan103/ConstructorWordGuess#readme"
+  "homepage": "https://github.com/erikchan103/ConstructorWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
 }
